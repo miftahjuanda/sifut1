@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="height_200">200dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="margin7">7dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="margin3">3dp</dimen>
+    <dimen name="radius8">8dp</dimen>
+</resources>

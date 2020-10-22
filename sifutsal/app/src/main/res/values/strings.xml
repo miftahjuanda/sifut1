@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sifutsal</string>
+    <string name="image">image</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="buka">Jam Buka</string>
+    <string name="tutup">Jam Tutup</string>
+    <string name="jam">08:00</string>
+    <string name="fasil">Fasilitas Tersedia</string>
+    <string name="loc">Lokasi</string>
+    <string name="fab">Floating</string>
+    <string name="img">image_detail</string>
+    <string name="harga1">Harga Pagi - Sore</string>
+    <string name="rp">Rp 70.000</string>
+    <string name="harga2">Harga Malam</string>
+    <string name="jenis_rumput">Jenis Rumput</string>
+    <string name="rumput_sintetis">Rumput Sintetis</string>
+</resources>
